@@ -1,16 +1,20 @@
-# CS50x Problem Set 0 - Scratch
+## Progress Tracker
+- [x] Week 0 – Scratch
+- [x] Week 1 – C
+- [ ] Week 2 – Arrays
+- [ ] Week 3 – Algorithms
+- [ ] Week 4 – Memory
+- [ ] Week 5 – Data Structures
+- [ ] Week 6 – Python
+- [ ] Week 7 – SQL
+- [ ] Week 8 – HTML, CSS, JavaScript
+- [ ] Week 9 – Flask
+- [ ] Final Project
 
-## Quiz Game
-A 5-question general knowledge quiz built in Scratch.
+## Tools Used
+- VS Code (CS50 Codespace)
+- GitHub for version control
+- edX (free version of CS50x)
 
-### Features
-- 5 questions with A, B, C buttons
-- Score tracking
-- Sound effects
-- Celebration end screen
-
-### Play here
-https://scratch.mit.edu/projects/1331346553
-
-### Built by
-Mahrukh Zafar — CS50x 2026
+## Author
+**Mahrukh** — BSCS student, KFUEIT
