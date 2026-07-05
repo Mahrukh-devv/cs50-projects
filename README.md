@@ -1,20 +1,64 @@
-## Progress Tracker
-- [x] Week 0 – Scratch
-- [x] Week 1 – C
-- [x] Week 2 – Arrays
-- [x] Week 3 – Algorithms
-- [x] Week 4 – Memory
-- [x] Week 5 – Data Structures
-- [ ] Week 6 – Python
-- [ ] Week 7 – SQL
-- [ ] Week 8 – HTML, CSS, JavaScript
-- [ ] Week 9 – Flask
-- [ ] Final Project
+# CS50x — Harvard University
 
-## Tools Used
-- VS Code (CS50 Codespace)
-- GitHub for version control
-- edX (free version of CS50x)
 
-## Author
-**Mahrukh** — BSCS student, KFUEIT
+
+![Language](https://img.shields.io/badge/Language-C-blue)
+
+
+
+
+![Course](https://img.shields.io/badge/Course-CS50x%202026-red)
+
+
+
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
+
+
+
+![Platform](https://img.shields.io/badge/Platform-edX-003263)
+
+
+
+> My solutions, notes, and projects from Harvard's CS50x — Introduction to Computer Science.
+
+---
+
+## 👩‍💻 About
+
+I'm **Mahrukh Zafar**, a Computer Science student at KFUEIT with a focus on **cybersecurity**. This repository documents my journey through CS50x 2026, one of the most rigorous introductory CS courses in the world.
+
+All solutions are written independently in accordance with CS50's academic honesty policy.
+
+---
+
+## 📊 Progress Tracker
+
+| Week | Topic | Status | Problems Completed |
+|------|-------|--------|--------------------|
+| 0 | Scratch | ✅ Done | Scratch Project |
+| 1 | C | ✅ Done | Hello, Mario, Cash |
+| 2 | Arrays | ✅ Done | Readability, Caesar, Scrabble |
+| 3 | Algorithms | ✅ Done | Sort, Plurality, Runoff |
+| 4 | Memory | ✅ Done | Volume, Filter-Less, Recover |
+| 5 | Data Structures | ✅ Done | Inheritance, Speller |
+| 6 | Python | ⬜ Upcoming | — |
+| 7 | SQL | ⬜ Upcoming | — |
+| 8 | HTML, CSS, JS | ⬜ Upcoming | — |
+| 9 | Flask | ⬜ Upcoming | — |
+| — | Final Project | ⬜ Upcoming | — |
+
+---
+
+## 🛠️ Tools Used
+
+- **VS Code** (CS50 Codespace)
+- **GitHub** for version control
+- **edX** (free version of CS50x)
+- **GCC / Clang** C compiler
+- **Valgrind** for memory leak checking
+
+---
+
+## 📁 Repository Structure
