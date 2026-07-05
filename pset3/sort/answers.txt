@@ -1,0 +1,11 @@
+sort1 uses: selection sort
+
+How do you know?: Its times were similar across random (0.207s), reversed (0.251s), and sorted (0.115s) inputs, which is characteristic of selection sort's O(n^2) behavior regardless of input order.
+
+sort2 uses: merge slot
+
+How do you know?: It was consistently fast across all input types (random: 0.071s, reversed: 0.015s, sorted: 0.070s), characteristic of merge sort's O(n log n) efficiency.
+
+sort3 uses: bubble sort
+
+How do you know?: It was extremely fast on reversed input (0.001s) which is bubble sort's best case, but slower on random (0.150s) and sorted (0.139s) inputs.
