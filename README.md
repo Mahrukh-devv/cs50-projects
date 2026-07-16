@@ -30,7 +30,7 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 | 4 | Memory | ✅ Done | Volume, Filter-Less, Recover |
 | 5 | Data Structures | ✅ Done | Inheritance, Speller |
 | 6 | Python | ✅ Done | Hello, Mario, Cash, Readability, DNA |
-| 7 | SQL | ⬜ Upcoming | — |
+| 7 | SQL | ✅ Upcoming | — |
 | 8 | HTML, CSS, JavaScript | ⬜ Upcoming | — |
 | 9 | Flask | ⬜ Upcoming | — |
 | Final Project | Capstone | ⬜ Upcoming | — |
