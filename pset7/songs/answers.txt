@@ -1,0 +1,1 @@
+1. Spotify's algorithm likely uses audio features like danceability, energy, and valence to characterize listener preferences and recommend songs with similar attributes.
