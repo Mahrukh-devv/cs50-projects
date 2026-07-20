@@ -29,7 +29,7 @@
 
 Hi! I'm **Mahrukh Zafar**, a **Bachelor of Computer Science (BSCS)** student at **KFUEIT** with a growing interest in **Cybersecurity**.
 
-This repository documents my journey through **Harvard CS50x 2026**, where I'm building a solid foundation in computer science by learning programming, algorithms, data structures, memory management, databases, and web development.
+This repository documents my journey through **Harvard CS50x 2026**, where I'm building a strong foundation in computer science by learning programming, algorithms, data structures, memory management, databases, and web development.
 
 All solutions are written independently in accordance with **CS50's Academic Honesty Policy**.
 
@@ -37,23 +37,23 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 
 # 📊 Progress Tracker
 
-| Week | Topic | Status | Problems Completed |
-|------|-------|--------|--------------------|
-| 0 | Scratch | ✅ Done | Scratch Project |
-| 1 | C | ✅ Done | Hello, Mario, Cash |
-| 2 | Arrays | ✅ Done | Readability, Caesar, Scrabble |
-| 3 | Algorithms | ✅ Done | Sort, Plurality, Runoff |
-| 4 | Memory | ✅ Done | Volume, Filter-Less, Recover |
-| 5 | Data Structures | ✅ Done | Inheritance, Speller |
-| 6 | Python | ✅ Done | Hello, Mario, Cash, Readability, DNA |
-| 7 | SQL | ✅ Done | Movies, Songs, Fiftyville |
-| 8 | HTML, CSS, JavaScript | ✅ Done | Trivia, Homepage |
-| 9 | Flask | ⬜ Upcoming | — |
-| Final Project | Capstone | ⬜ Upcoming | — |
+| Week | Topic | Status |
+|------|-------|--------|
+| 0 | Scratch | ✅ Done |
+| 1 | C | ✅ Done |
+| 2 | Arrays | ✅ Done |
+| 3 | Algorithms | ✅ Done |
+| 4 | Memory | ✅ Done |
+| 5 | Data Structures | ✅ Done |
+| 6 | Python | ✅ Done |
+| 7 | SQL | ✅ Done |
+| 8 | HTML, CSS & JavaScript | ✅ Done |
+| 9 | Flask | ⬜ Upcoming |
+| Final Project | Capstone | ⬜ Upcoming |
 
 ---
 
-# 💡 Skills Gained
+# 💡 Skills Being Learned
 
 - C Programming
 - Python
@@ -62,10 +62,9 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 - Bootstrap
 - Algorithms
 - Data Structures
-- Memory Management
-- File I/O
-- Debugging
 - Problem Solving
+- Memory Management
+- Debugging
 - Git & GitHub
 
 ---
@@ -81,7 +80,7 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 - GitHub
 - VS Code (CS50 Codespaces)
 - GCC / Clang
-- Valgrind
+- edX
 
 ---
 
@@ -92,11 +91,6 @@ cs50-projects/
 ├── pset1/
 ├── pset2/
 ├── pset6/
-│   ├── hello/
-│   ├── mario/
-│   ├── readability/
-│   ├── dna/
-│   └── ...
 ├── pset7/
 │   ├── movies/
 │   ├── songs/
@@ -104,38 +98,21 @@ cs50-projects/
 ├── pset8/
 │   ├── trivia/
 │   └── homepage/
-└── README.md
+├── README.md
 
----
-
-
-
-
----
-
-# 🎯 Current Goal
-
-I'm currently completing **Harvard CS50x** to strengthen my programming and problem-solving skills while building a solid foundation in computer science, before specializing further in **Cybersecurity**.
-
----
-
-# 🧑‍🎓 Author
-
-**Mahrukh Zafar**
+🎯 Current Goal
+I'm currently completing Harvard CS50x to strengthen my programming and problem-solving skills while building a solid foundation in computer science, before specializing further in Cybersecurity.
+👩‍🎓 Author
+Mahrukh Zafar
 BS Computer Science (BSCS) Student
 KFUEIT
-
-- **LinkedIn:** [mahrukh-zafar-5507a9377](https://www.linkedin.com/in/mahrukh-zafar-5507a9377)
-- **GitHub:** [Mahrukh-devv](https://github.com/Mahrukh-devv)
-- **Instagram:** [@mahrukh.__.zafar](https://www.instagram.com/mahrukh.__.zafar)
-
----
-
-# ⚠️ Academic Honesty
-
+LinkedIn: mahrukh-zafar-5507a9377
+GitHub: Mahrukh-devv
+Instagram: @mahrukh.__.zafar
+⚠️ Academic Honesty
 This repository is intended for learning and portfolio purposes only.
-
----
-
-⭐ If you found this repository helpful, consider giving it a **star**!
+If you're currently taking CS50, please use these solutions only as a reference after completing the assignments yourself.
+For more information, please refer to CS50's Academic Honesty Policy:
+https://cs50.harvard.edu/x/2026/honesty/
+⭐ If you find this repository useful, consider giving it a star!
 
