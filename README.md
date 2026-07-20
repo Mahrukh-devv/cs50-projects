@@ -106,20 +106,35 @@ cs50-projects/
 │   └── homepage/
 └── README.md
 
+---
 
+# 🎯 Current Goal
 
+I'm currently completing **Harvard CS50x** while strengthening my programming fundamentals before specializing in **Cybersecurity**.
 
+---
 
+# 🔗 Connect With Me
 
-#🎯 Current Goal
-I'm currently completing Harvard CS50x while strengthening my programming fundamentals before specializing in Cybersecurity.
-🔗 Connect With Me
-LinkedIn: https://www.linkedin.com/in/mahrukh-zafar-5507a9377
-GitHub: https://github.com/Mahrukh-devv
-Instagram: https://www.instagram.com/mahrukh.__.zafar
-⚠️ Academic Honesty
-This repository is intended for learning and portfolio purposes only.
+- **LinkedIn:** https://www.linkedin.com/in/mahrukh-zafar-5507a9377
+- **GitHub:** https://github.com/Mahrukh-devv
+- **Instagram:** https://www.instagram.com/mahrukh.__.zafar
+
+---
+
+# ⚠️ Academic Honesty
+
+This repository is intended for **learning and portfolio purposes only**.
+
 If you're currently taking CS50, please use these solutions only as a reference after completing the assignments yourself.
-For more information, see CS50's Academic Honesty Policy:
+
+For more information, see **CS50's Academic Honesty Policy**:
 https://cs50.harvard.edu/x/2026/honesty/
-⭐ If you found this repository helpful, consider giving it a star!
+
+---
+
+⭐ If you found this repository helpful, consider giving it a **star**!
+
+
+
+
