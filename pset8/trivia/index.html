@@ -1,0 +1,68 @@
+  <!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+            // TODO: Add code to check answers to questions
+
+document.addEventListener('DOMContentLoaded', function() {
+
+    document.querySelector('#check-mc').addEventListener('click', function() {
+        const selected = document.querySelector('input[name="mc"]:checked');
+        const feedback = document.querySelector('#mc-feedback');
+        if (!selected) {
+            feedback.textContent = "Please select an answer.";
+        } else if (selected.value === "Jeju Island") {
+            feedback.textContent = "Correct! ✅";
+        } else {
+            feedback.textContent = "Not quite! ❌";
+        }
+    });
+
+    document.querySelector('#check-fr').addEventListener('click', function() {
+        const input = document.querySelector('#fr-input').value.trim().toLowerCase();
+        const feedback = document.querySelector('#fr-feedback');
+        if (input === "ae-sun") {
+            feedback.textContent = "Correct! ✅";
+        } else {
+            feedback.textContent = "Not quite, try again! ❌";
+        }
+    });
+
+});
+        </script>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+<p>Where is "When Life Gives You Tangerines" primarily set?</p>
+<label><input type="radio" name="mc" value="Jeju Island"> Jeju Island</label><br>
+<label><input type="radio" name="mc" value="Seoul"> Seoul</label><br>
+<label><input type="radio" name="mc" value="Busan"> Busan</label><br>
+<label><input type="radio" name="mc" value="Incheon"> Incheon</label><br>
+<button id="check-mc">Check</button>
+<p id="mc-feedback"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+<p>What is the name of the main female lead?</p>
+<input type="text" id="fr-input" placeholder="Type your answer">
+<button id="check-fr">Check</button>
+<p id="fr-feedback"></p>
+            </div>
+        </div>
+    </body>
+</html>
