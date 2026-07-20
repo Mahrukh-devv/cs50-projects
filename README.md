@@ -106,7 +106,12 @@ cs50-projects/
 │   └── homepage/
 └── README.md
 
-🎯 Current Goal
+
+
+
+
+
+#🎯 Current Goal
 I'm currently completing Harvard CS50x while strengthening my programming fundamentals before specializing in Cybersecurity.
 🔗 Connect With Me
 LinkedIn: https://www.linkedin.com/in/mahrukh-zafar-5507a9377
