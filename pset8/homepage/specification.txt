@@ -1,0 +1,24 @@
+HTML tags used (besides html, head, body, title):
+1. nav
+2. div
+3. a
+4. h1
+5. h2
+6. p
+7. button
+8. ul
+9. li
+10. footer
+
+CSS properties used (in styles.css):
+1. background-color
+2. color
+3. font-family
+4. margin
+5. padding
+6. border-bottom
+7. text-transform
+
+JavaScript: Clicking the "Show a fact about me" button on index.html displays a randomly chosen fact about me, pulled from an array in script.js.
+
+Bootstrap: Used Bootstrap's navbar component for site-wide navigation, and the card and btn components on the about, hobbies, and contact pages.

@@ -1,0 +1,117 @@
+body {
+    background-image: linear-gradient(rgba(10, 25, 35, 0.65), rgba(15, 40, 50, 0.65)), url('bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #f0f0f0;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #0d4f5c, #ee5a9e);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.hero {
+    padding: 60px 20px 40px;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #0d4f5c, #ee5a9e);
+    margin-bottom: 20px;
+    box-shadow: 0 0 30px rgba(238, 90, 158, 0.5);
+}
+
+.handle {
+    color: #ff9fc7;
+    font-weight: 600;
+}
+
+.bio {
+    max-width: 400px;
+    margin: 0 auto 15px;
+    color: #dbeef0;
+}
+
+.section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.section h2 {
+    font-size: 1.4rem;
+    color: #ff9fc7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #0d4f5c;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: 2px solid #ee5a9e !important;
+    border-radius: 12px !important;
+    background-color: rgba(13, 30, 40, 0.85) !important;
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(238, 90, 158, 0.4);
+}
+
+.card-title {
+    color: #ff9fc7;
+}
+
+.btn-pink {
+    background: linear-gradient(135deg, #0d4f5c, #ee5a9e);
+    color: white;
+    border: none;
+}
+
+.btn-orange {
+    background: linear-gradient(135deg, #145c68, #ee5a9e);
+    color: white;
+    border: none;
+}
+
+.btn-purple {
+    background: linear-gradient(135deg, #ee5a9e, #0d4f5c);
+    color: white;
+    border: none;
+}
+
+.btn-pink:hover, .btn-orange:hover, .btn-purple:hover {
+    opacity: 0.85;
+    color: white;
+}
+
+#quote-btn {
+    background: linear-gradient(135deg, #0d4f5c, #ee5a9e);
+    border: none;
+    color: white;
+}
+
+#quote-output {
+    color: #ff9fc7;
+}
+
+footer {
+    text-align: center;
+    padding: 30px 0;
+    color: #a8c9cf;
+    font-size: 0.85rem;
+}   
