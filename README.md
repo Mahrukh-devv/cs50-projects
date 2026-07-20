@@ -108,15 +108,22 @@ cs50-projects/
 
 ---
 
-# 🎯 Current Goal
 
-Right now, I'm working my way through **Harvard's CS50x**, one problem set at a time. Every week adds another piece to the puzzle — from C, to Python, to SQL, and now web development. The bigger goal behind all of it is to build a strong programming foundation before specializing further in **Cybersecurity**, which is where I ultimately want to take my career.
+
 
 ---
 
-# 🔗 Connect With Me
+# 🎯 Current Goal
 
-If you'd like to see what else I'm up to beyond this repo, feel free to check out my other spaces:
+I'm currently completing **Harvard CS50x** to strengthen my programming and problem-solving skills while building a solid foundation in computer science, before specializing further in **Cybersecurity**.
+
+---
+
+# 🧑‍🎓 Author
+
+**Mahrukh Zafar**
+BS Computer Science (BSCS) Student
+KFUEIT
 
 - **LinkedIn:** [mahrukh-zafar-5507a9377](https://www.linkedin.com/in/mahrukh-zafar-5507a9377)
 - **GitHub:** [Mahrukh-devv](https://github.com/Mahrukh-devv)
@@ -126,9 +133,9 @@ If you'd like to see what else I'm up to beyond this repo, feel free to check ou
 
 # ⚠️ Academic Honesty
 
-This repository exists purely for **learning and portfolio purposes** — a record of my own progress through the course, not a shortcut for anyone else's. If you're currently taking CS50 yourself, I'd encourage you to work through each problem set on your own first, and only use this as a reference afterward. You can read more about CS50's approach to academic honesty [here](https://cs50.harvard.edu/x/2026/honesty/).
+This repository is intended for learning and portfolio purposes only.
 
 ---
 
-If any of this was useful to you, or you just enjoyed following along, a ⭐ on the repo would mean a lot.
+⭐ If you found this repository helpful, consider giving it a **star**!
 
