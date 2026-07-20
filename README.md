@@ -1,25 +1,9 @@
 # CS50x — Harvard University
 
-
-
 ![Language](https://img.shields.io/badge/Language-C%20%7C%20Python%20%7C%20SQL%20%7C%20HTML%2FCSS%2FJS-blue)
-
-
-
-
 ![Course](https://img.shields.io/badge/Course-CS50x%202026-red)
-
-
-
-
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-
-
-
-
 ![Platform](https://img.shields.io/badge/Platform-edX-003263)
-
-
 
 > My solutions, notes, and projects from **Harvard University's CS50x: Introduction to Computer Science**.
 
@@ -27,9 +11,9 @@
 
 # 👩‍💻 About
 
-Hi! I'm **Mahrukh Zafar**, a **Bachelor of Computer Science (BSCS)** student at **KFUEIT** with a growing interest in **Cybersecurity**.
+Hi! I'm **Mahrukh Zafar**, a **Bachelor of Science in Computer Science (BSCS)** student at **KFUEIT** with a growing interest in **Cybersecurity** and **Software Development**.
 
-This repository documents my journey through **Harvard CS50x 2026**, where I'm building a strong foundation in computer science by learning programming, algorithms, data structures, memory management, databases, and web development.
+This repository documents my journey through **Harvard CS50x 2026**, where I'm building a solid foundation in computer science by learning programming, algorithms, data structures, memory management, databases, and web development.
 
 All solutions are written independently in accordance with **CS50's Academic Honesty Policy**.
 
@@ -38,7 +22,7 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 # 📊 Progress Tracker
 
 | Week | Topic | Status |
-|------|-------|--------|
+|------|-------------------------|---------|
 | 0 | Scratch | ✅ Done |
 | 1 | C | ✅ Done |
 | 2 | Arrays | ✅ Done |
@@ -57,13 +41,16 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 
 - C Programming
 - Python
-- SQL
-- HTML / CSS / JavaScript
+- SQL (SQLite)
+- HTML
+- CSS
+- JavaScript
 - Bootstrap
+- Flask
 - Algorithms
 - Data Structures
-- Problem Solving
 - Memory Management
+- Problem Solving
 - Debugging
 - Git & GitHub
 
@@ -76,6 +63,7 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 - SQL (SQLite)
 - HTML / CSS / JavaScript
 - Bootstrap
+- Flask
 - Git
 - GitHub
 - VS Code (CS50 Codespaces)
@@ -87,9 +75,14 @@ All solutions are written independently in accordance with **CS50's Academic Hon
 # 📁 Repository Structure
 
 ```text
-cs50-projects/
+cs50x/
+│
+├── pset0/
 ├── pset1/
 ├── pset2/
+├── pset3/
+├── pset4/
+├── pset5/
 ├── pset6/
 ├── pset7/
 │   ├── movies/
@@ -99,20 +92,45 @@ cs50-projects/
 │   ├── trivia/
 │   └── homepage/
 ├── README.md
+```
 
-🎯 Current Goal
-I'm currently completing Harvard CS50x to strengthen my programming and problem-solving skills while building a solid foundation in computer science, before specializing further in Cybersecurity.
-👩‍🎓 Author
-Mahrukh Zafar
-BS Computer Science (BSCS) Student
-KFUEIT
-LinkedIn: mahrukh-zafar-5507a9377
-GitHub: Mahrukh-devv
-Instagram: @mahrukh.__.zafar
-⚠️ Academic Honesty
-This repository is intended for learning and portfolio purposes only.
-If you're currently taking CS50, please use these solutions only as a reference after completing the assignments yourself.
-For more information, please refer to CS50's Academic Honesty Policy:
+---
+
+# 🎯 Current Goal
+
+I'm currently completing **Harvard CS50x** to strengthen my programming and problem-solving skills while building a strong foundation in computer science before specializing in **Cybersecurity**.
+
+---
+
+# 👩‍🎓 Author
+
+**Mahrukh Zafar**
+
+🎓 BS Computer Science (BSCS) Student  
+🏫 Khwaja Fareed University of Engineering & Information Technology (KFUEIT)
+
+- 💼 LinkedIn: **mahrukh-zafar-5507a9377**
+- 💻 GitHub: **Mahrukh-devv**
+- 📷 Instagram: **@mahrukh.__.zafar**
+
+---
+
+# ⚠️ Academic Honesty
+
+This repository is intended for **learning and portfolio purposes only**.
+
+If you're currently taking **CS50x**, please use these solutions only as a reference **after completing the assignments yourself**.
+
+For more information, please refer to **CS50's Academic Honesty Policy**:
+
 https://cs50.harvard.edu/x/2026/honesty/
-⭐ If you find this repository useful, consider giving it a star!
+
+---
+
+⭐ **If you find this repository helpful, consider giving it a Star!**
+
+
+
+
+
 
