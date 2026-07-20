@@ -106,7 +106,6 @@ cs50-projects/
 │   └── homepage/
 └── README.md
 
-
 ---
 
 # 🎯 Current Goal
@@ -132,5 +131,4 @@ This repository exists purely for **learning and portfolio purposes** — a reco
 ---
 
 If any of this was useful to you, or you just enjoyed following along, a ⭐ on the repo would mean a lot.
-
 
